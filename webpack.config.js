@@ -48,7 +48,7 @@ module.exports = {
                         }
                     }
                 ]
-            },
+            }
             // {
             //     test: /\.(csv|tsv)$/,
             //     use: [
